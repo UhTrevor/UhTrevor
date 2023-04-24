@@ -1,5 +1,1 @@
-#Hi I'm uhtrevor
-on right click:
-  send "I like to use skript" to player
-  send "and sometimes javascript..." to player
-  stop
+# Hi, I'm UhTrevor, I'm an active developer and always looking to learn
